@@ -4,13 +4,13 @@ This repository contains the codebase accompanying the Bachelor's thesis *Opinio
 
 The thesis contains two chapters that rely on computational methods.
 
-## Chapter 2: Random Network Models
+## Chapter 2: Random Hypergraph Models
 
 The `Figures` folder contains the Python scripts used to generate the random graph and hypergraph figures presented in Chapter 2.
 
 ## Chapter 5: Simulations
 
-The remaining code is related to Chapter 5, which investigates opinion spread through computer simulations. These files contain the implementations of the random network models, opinion dynamics models, simulation framework, and analysis tools used throughout the chapter.
+The remaining code is related to Chapter 5, which investigates opinion spread through computer simulations. The folder `Simualtions` has these codes and programs. The files contain the implementations of the random network models, opinion dynamics models, simulation framework, and analysis tools used throughout the chapter.
 
 The simulation files can be divided into two groups.
 
@@ -35,5 +35,3 @@ The notebooks
 contain the experiments presented in Chapter 5. Running these notebooks reproduces the simulations, statistics, and figures used in the thesis.
 
 Chapter 5 is divided into four sections, each focusing on a different aspect of the simulation results. Each section has a corresponding results notebook, and the numbering of the notebooks follows the same order as the sections in the thesis.
-
-All code was written to support the theoretical and simulation-based analysis presented in the thesis and can be used to reproduce the reported results.
